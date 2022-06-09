@@ -1,4 +1,4 @@
-# Patchouli-Rose-Reshade-Preset
+# Patchouli-Rose-Reshade
 Patchouli Rose ReShade from intramoon on Tumblr.
 
 PRESET INFORMATION 
